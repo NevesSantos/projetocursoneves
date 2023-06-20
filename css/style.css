@@ -1,0 +1,46 @@
+h1{
+    color: rgb(230, 138, 1);
+}
+
+h3{ 
+    color: aqua;
+}
+
+#titulozin{
+    color: blue;
+}
+
+.text{
+    color: blueviolet;
+}
+
+.background{
+    background-color: chocolate;
+    color: blue;
+    font-size: 30px;
+}
+
+.background2{
+    background-image: url("../img/HuzuniLogo.jpg");
+    padding: 20px;
+    color: white;
+    
+}
+
+#width-height{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+
+#pading{
+    background-color: magenta;
+    padding: 20px;
+}
+
+#margin{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+}
